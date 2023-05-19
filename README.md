@@ -41,3 +41,11 @@ To run the project locally, follow these steps:
 4. Open the Jupyter Notebook or Python script and run the code cells to execute the data visualization and modeling steps.
 5. Interact with the visualizations and review the analysis results.
 
+# Acknowledgements
+I would also like to extend my sincere appreciation to Coursera for offering the Data Analyst course that laid the foundation for this project. The course equipped me with essential knowledge and skills in data analysis, visualization, and presentation, which have been instrumental in the successful completion of this project.
+
+Furthermore, I am deeply grateful to IBM for their contribution to this project. Leveraging IBM Cognos Analytics as a powerful tool for creating interactive dashboards has greatly enhanced the visualization and storytelling capabilities of the data, enabling me to present my findings in a compelling and engaging manner.
+
+I would like to acknowledge and thank the open-source community and the developers of the libraries and tools used throughout this project. Their dedication to creating accessible and robust resources has played a significant role in the success of this capstone project.
+
+Lastly, I would like to express my appreciation to all individuals, mentors, and organizations who have provided guidance, assistance, and support throughout this project. Your insights and feedback have been invaluable, and I am truly grateful for your contributions.
